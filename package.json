@@ -1,0 +1,19 @@
+{
+  "name": "stylus-lang",
+  "version": "0.0.1",
+  "description": "Documentation for Stylus built with VuePress",
+  "main": "index.js",
+  "authors": {
+    "name": "Jeremy Bolding",
+    "email": "cyberchefjay@gmail.com"
+  },
+  "repository": "https://github.com/thecodechef/stylus-lang.git/stylus-lang",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
